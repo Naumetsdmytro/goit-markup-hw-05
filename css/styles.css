@@ -730,6 +730,8 @@ img {
     position: absolute;
     top: 8px;
     right: 8px;
+    width: 30px;
+    height: 30px;
     padding: 0;
     cursor: pointer;
     border-radius: 50%;
